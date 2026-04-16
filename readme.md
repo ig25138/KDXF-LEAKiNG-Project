@@ -1,1 +1,1 @@
-此仓库已废弃，请去https://github.com/iflytek-leaking/KDXF-LEAKiNG-Project获取最新教程
+此仓库已废弃，请去 https://github.com/iflytek-leaking/KDXF-LEAKiNG-Project 获取最新教程
